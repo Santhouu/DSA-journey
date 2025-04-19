@@ -1,6 +1,7 @@
 # Function to reverse an array
 def reverse_array(arr):
-    start = 0
+    # Initialization 
+    start = 0 
     end = len(arr) - 1
     
     while start < end:
@@ -12,5 +13,5 @@ def reverse_array(arr):
     return arr
 
 # Test
-arr = [1, 2, 3, 4, 5]
+arr = [1, 2, 3, 4, 5] # Arguments passing to function parameters 
 print("Reversed Array:", reverse_array(arr))
