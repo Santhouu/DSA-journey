@@ -1,0 +1,6 @@
+s = "hello world"
+print(len(s))           # 11
+print(s.upper())        # HELLO WORLD
+print(s.replace("world", "Santhu"))  # hello Santhu
+print(s.count("l"))     # 3
+print("world" in s)     # True
