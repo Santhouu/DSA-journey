@@ -1,5 +1,6 @@
 # Function to find max and min in an array
 def find_max_min(arr):
+    # Initialization pf max and min 
     max_val = arr[0]
     min_val = arr[0]
     
@@ -8,7 +9,8 @@ def find_max_min(arr):
             max_val = num
         if num < min_val:
             min_val = num
-            
+
+    # printing the Max amd min 
     print("Maximum:", max_val)
     print("Minimum:", min_val)
 
