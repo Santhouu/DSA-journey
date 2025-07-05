@@ -1,4 +1,5 @@
 # Array is a collection of 'Homogenous' data type of elements.
+# But 
 # Creating an array
 arr = [10, 20, 30, 40, 50]
 
