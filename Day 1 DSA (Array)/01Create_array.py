@@ -1,5 +1,5 @@
 # Array is a collection of 'Homogenous' data type of elements.
-# But in Python List also act as array but List can hold 
+# But in Python List also act as array but List can hold 'Heterogenous' 
 # Creating an array
 arr = [10, 20, 30, 40, 50]
 
