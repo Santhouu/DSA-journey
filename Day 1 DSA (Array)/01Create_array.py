@@ -1,4 +1,4 @@
-# Array is a collection of 
+# Array is a collection of 'Homogenous' data type of 
 # Creating an array
 arr = [10, 20, 30, 40, 50]
 
