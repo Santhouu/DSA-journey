@@ -1,4 +1,4 @@
-# Array is a 
+# Array is a collection of 
 # Creating an array
 arr = [10, 20, 30, 40, 50]
 
