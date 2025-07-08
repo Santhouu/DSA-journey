@@ -12,6 +12,7 @@ print(arr)
 
 # Deletion
 # Pop :- Removes the end element
+# remove :- Removes the specifc element which we have choosed
 arr.pop()              # Removes last element
 arr.remove(25)         # Removes value 25
 print(arr)
