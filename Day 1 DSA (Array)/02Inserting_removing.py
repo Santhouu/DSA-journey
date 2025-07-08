@@ -1,5 +1,6 @@
 # Performing the array Oparations
 # append :- adding the element at the end 
+# insert :- adding with the specific index with value
 arr = [10, 20, 30, 40, 50]
 
 # Insertion
