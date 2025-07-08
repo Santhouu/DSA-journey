@@ -1,10 +1,12 @@
-# Performing the array Oparations
-# append :- adding the element at the end 
-# insert :- adding with the specific index with value
+# Performing the array Oparations 
 arr = [10, 20, 30, 40, 50]
 
 # Insertion
+
+# append :- adding the element at the end
 arr.append(60)         # Add at end
+
+# insert :- adding with the specific index with value
 arr.insert(2, 25)      # Add 25 at index 2
 print(arr)
 
