@@ -1,4 +1,4 @@
-# Performing 
+# Performing the array
 arr = [10, 20, 30, 40, 50]
 
 # Insertion
